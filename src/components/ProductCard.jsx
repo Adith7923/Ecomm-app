@@ -1,3 +1,4 @@
+import React from "react";
 import { useNavigate } from "react-router-dom";
 import "./ProductCard.css";
 export default function ProductCard({ product }) {
